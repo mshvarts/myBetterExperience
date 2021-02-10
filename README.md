@@ -5,13 +5,13 @@ Technologies used: MERN Stack (MongoDB, Express.js, React, and Node.js) and Goog
 
 Things I worked on: viewing jobs, sorting jobs by company or deadlines, uploading/viewing resumes and bug fixes.  
 
-student login: student1/student1
+**student login**: student1/student1
   
-recruiter login: recruiter2/recruiter2
+**recruiter login**: recruiter2/recruiter2
 
-student demo:  
+##### student demo:  
 ![](student-demo.gif)
 
-recruiter demo:  
+##### recruiter demo:  
 
 ![](recruiter-demo.gif)
