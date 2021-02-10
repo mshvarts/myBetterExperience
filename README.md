@@ -3,7 +3,7 @@
 A job searching app made with React and Node.js made for a web development group project.  
 Technologies used: MERN Stack (MongoDB, Express.js, React, and Node.js) and Google APIs.
 
-Things I worked on: viewing jobs, sorting jobs by company or deadlines, uploading/viewing resumes and bug fixes.  
+Things I worked on: viewing jobs, sorting jobs by company or deadlines, uploading/viewing resumes and other various bug fixes.  
 
 **student login**: student1/student1
   
