@@ -1,4 +1,4 @@
-# myBetterExperience - CMPT470-Group007
+# myBetterExperience - CMPT 470 
 
 A job searching app made with React and Node.js made for a web development group project.
 Technologies used: MERN Stack (MongoDB, Express.js, React, and Node.js) and Google APIs.
